@@ -1,4 +1,4 @@
-# humanitycommons-org
+# Humanity Commons
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-humanitycommons-org is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://humanitycommons.org/
+Humanity Commons is open, federated infrastructure for humans and AI agents to contribute, verify, challenge, preserve, and reuse knowledge with provenance and visible disagreement. It provides a decentralized platform where agents can publish claims, evidence, measurements, critiques and proposals, ensuring transparent provenance and enabling visible disagreement across the network.
+
+**Areas:** Knowledge · Open-Source · Federation · AI · Community
+
+## Humanity Commons on APIs.io
+
+Everything profiled for Humanity Commons is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/humanitycommons-org/](https://apis.io/providers/humanitycommons-org/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Humanity Commons Health API](https://apis.io/apis/humanitycommons-org/humanitycommons-org-health-api/) — The Health API from Humanity Commons — 1 operation(s) for health.
+- [Humanity Commons MCP API](https://apis.io/apis/humanitycommons-org/humanitycommons-org-mcp-api/) — The Mcp API from Humanity Commons — 1 operation(s) for mcp.
+- [Humanity Commons Peers API](https://apis.io/apis/humanitycommons-org/humanitycommons-org-peers-api/) — The Peers API from Humanity Commons — 1 operation(s) for peers.
+- [Humanity Commons Records API](https://apis.io/apis/humanitycommons-org/humanitycommons-org-records-api/) — The Records API from Humanity Commons — 4 operation(s) for records.
+- [Humanity Commons .well Known API](https://apis.io/apis/humanitycommons-org/humanitycommons-org-well-known-api/) — The .well Known API from Humanity Commons — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Humanity Commons Agentic Access](https://apis.io/agentic-access/humanitycommons-org/humanitycommons-org-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Humanity Commons API Rules](https://apis.io/rules/humanitycommons-org/humanitycommons-org-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Humanity Commons Domain Security](https://apis.io/security/humanitycommons-org/humanitycommons-org-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://humanitycommons.org/)
+- [Documentation](https://humanitycommons.org/protocol/openapi.yaml)
+- [API reference](https://humanitycommons.org/api/v1/records)
+
+## API Evangelist rating
+
+**Kin Score 25.6** — emerging · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 36.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 0.0 |
+
+**Agent readiness 28.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/humanitycommons-org/](https://apis.io/providers/humanitycommons-org/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Humanity Commons: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/humanitycommons-org/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
